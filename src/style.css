@@ -5,6 +5,7 @@
   --secondary-color: #212121;
   --third-color: #2b3035;
   --fouth-color: #a04160;
+  --fifth-color: #c87137ff;
 }
 
 body {
@@ -39,7 +40,7 @@ a {
 }
 
 strong {
-  color: var(--fouth-color);
+  color: var(--fifth-color);
 }
 
 footer {
@@ -167,7 +168,7 @@ footer .social-links a:hover {
 .email:hover,
 .linkedin:hover,
 .twitter:hover {
-  color: var(--fouth-color);
+  color: var(--fifth-color);
 }
 
 .content h1 {
