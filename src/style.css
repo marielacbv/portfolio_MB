@@ -41,7 +41,6 @@ a {
 footer {
   margin-top: 150px;
   padding: 20px 0 0 0;
-  
 }
 
 .featured {
@@ -139,7 +138,6 @@ footer .social-links a:hover {
 
 .github-dir {
   margin-top: 0;
-
 }
 .github-dir a,
 .github-dir p {
@@ -166,6 +164,22 @@ footer .social-links a:hover {
 
 .content h1 {
   font-size: 50px;
+}
+
+.camera {
+ 
+  position: relative;
+  display: inline-block;
+}
+.camera .img-top {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+}
+.camera:hover .img-top {
+  display: inline;
 }
 
 @media (max-width: 960px) {
