@@ -38,8 +38,8 @@ a {
   color: white;
 }
 
-strong{
-  color:var(--fouth-color) ;
+strong {
+  color: var(--fouth-color);
 }
 
 footer {
@@ -80,6 +80,10 @@ footer {
   font-size: 18px;
   font-weight: bold;
   font-family: var(--default-font);
+}
+
+.nav-link {
+  color: #a04160;
 }
 .project-description,
 .content-container {
