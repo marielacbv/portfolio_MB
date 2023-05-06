@@ -41,7 +41,7 @@ a {
 footer {
   margin-top: 150px;
   padding: 20px 0 0 0;
-  background: var(--third-color);
+  
 }
 
 .featured {
@@ -139,7 +139,7 @@ footer .social-links a:hover {
 
 .github-dir {
   margin-top: 0;
-  background: var(--third-color);
+
 }
 .github-dir a,
 .github-dir p {
